@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'am Fyera 👋
 
 <!--
 **SyazzR/SyazzR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🌱 I’m currently learning as student intern at Accounting System Control Centre, Sabah Malaysia.
+
+📫 How to reach me on LinkedIn: <a href="www.linkedin.com/in/norsyazfyera-rosli-8392541a6">LinkedIn</a>
