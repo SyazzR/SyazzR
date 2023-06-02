@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning as student intern at Accounting System Control Centre, Sabah Malaysia.
+🌱 I’m a software engineer student and currently looking for a job after completing my internship on last april.
 
 📫 How to reach me on LinkedIn: <a href="www.linkedin.com/in/norsyazfyera-rosli-8392541a6">LinkedIn</a>
