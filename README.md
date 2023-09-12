@@ -9,4 +9,4 @@ During my academic journey, I had the opportunity to work on various projects th
 👯 I'm excited about the prospect of collaborating with like-minded professionals and contributing my technical skills and creativity to projects that make a real impact in the web development arena.
 
 
-📫 How to reach me on LinkedIn: <a href="www.linkedin.com/in/norsyazfyera-rosli/">LinkedIn</a>
+📫 How to reach me on LinkedIn: <a href="https://www.linkedin.com/in/norsyazfyera-rosli/">LinkedIn</a>
